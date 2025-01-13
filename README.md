@@ -37,7 +37,8 @@ _**B52** được coi là biểu tượng của sức mạnh không quân Mỹ._
 
 ## Images
 
-Máy bay B52<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/1200px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg" id="img" style="width: 878px; height: 598px;">y B52 bay trên bầu trời
+Máy bay B52
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/1200px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg" id="img" style="width: 878px; height: 598px;">y B52 bay trên bầu trời
 
 ## Links
 
