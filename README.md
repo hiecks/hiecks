@@ -6,7 +6,7 @@ Máy bay B52, tên đầy đủ là **Boeing B-52 Stratofortress**, là một tr
 ###### Những điểm nổi bật về máy bay B52
 Máy bay B52 có khả năng mang vũ khí hạt nhân và tấn công tầm xa. Được sử dụng trong nhiều chiến dịch quân sự lớn và vẫn đang hoạt động cho đến ngày nay.
 
-## Emphasis
+## Nhấn mạnh
 
 *Máy bay B52 là một trong những máy bay ném bom chiến lược mạnh mẽ nhất của Mỹ.*  
 _Được thiết kế từ những năm 1950, B52 đã chứng minh được sự bền bỉ và khả năng chiến đấu vượt trội._
@@ -16,7 +16,7 @@ __B52 đã tham gia vào nhiều chiến dịch quan trọng của quân đội 
 
 _**B52** được coi là biểu tượng của sức mạnh không quân Mỹ._
 
-## Lists
+## Danh sách
 
 ### Đặc điểm kỹ thuật
 
@@ -40,7 +40,7 @@ _**B52** được coi là biểu tượng của sức mạnh không quân Mỹ._
 Máy bay B52
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/1200px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg" id="img" style="width: 878px; height: 598px;">y B52 bay trên bầu trời
 
-## Links
+## Liên Kết
 
 Để tìm hiểu thêm về máy bay B52, bạn có thể truy cập [Wikipedia](https://vi.wikipedia.org/wiki/M%C3%A1y_bay_n%C3%A9m_bom_Boeing_B-52) hoặc tham khảo video trên [YouTube về máy bay B52](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
