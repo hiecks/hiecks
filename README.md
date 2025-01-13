@@ -57,6 +57,3 @@ Máy bay B52<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/
 | Tốc độ tối đa      | 1.000 km/h    |
 | Tầm bay            | 16.000 km     |
 | Sải cánh           | 56,4 m        |
-
-## Blocks of code
-
