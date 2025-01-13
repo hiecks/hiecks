@@ -1,45 +1,69 @@
-Máy bay B52 - Biểu tượng sức mạnh quân sự
-Headers
-Máy bay B52 - Biểu tượng sức mạnh quân sự
-Lịch sử và Giới thiệu về B52
-Những điểm nổi bật về máy bay B52
-Emphasis
-Máy bay B52 là một trong những máy bay ném bom chiến lược mạnh mẽ nhất của Mỹ.
-Được thiết kế từ những năm 1950, B52 đã chứng minh được sự bền bỉ và khả năng chiến đấu vượt trội.
+# Markdown syntax guide
 
-Máy bay B52 có khả năng mang vũ khí hạt nhân và tấn công tầm xa.
-B52 đã tham gia vào nhiều chiến dịch quan trọng của quân đội Mỹ.
+## Headers
 
-B52 được coi là biểu tượng của sức mạnh không quân Mỹ.
+# This is a Heading h1
+## This is a Heading h2
+###### This is a Heading h6
 
-Lists
-Đặc điểm kỹ thuật
-Trọng lượng cất cánh: 220.000 kg
-Tốc độ tối đa: 1.000 km/h
-Tầm bay: 16.000 km
-Sải cánh: 56,4 m
-Thời gian phục vụ: Hơn 60 năm
-Số lượng B52 được sản xuất: Khoảng 744 chiếc
-Các phiên bản B52
-B52A - Phiên bản đầu tiên
-B52B - Được trang bị các hệ thống mới
-B52H - Phiên bản hiện đại nhất với khả năng mang vũ khí hạt nhân
-Phiên bản này được sử dụng rộng rãi trong các chiến dịch quân sự hiện đại
-Được nâng cấp với hệ thống điều khiển điện tử
-Images
+## Emphasis
 
+*This text will be italic*  
+_This will also be italic_
 
-Links
-Để tìm hiểu thêm về máy bay B52, bạn có thể truy cập Wikipedia hoặc tham khảo video trên YouTube về máy bay B52.
+**This text will be bold**  
+__This will also be bold__
 
-Blockquotes
-"Máy bay B52 không chỉ là công cụ chiến tranh mà còn là một biểu tượng của sức mạnh và sự bền bỉ trong suốt nhiều thập kỷ."
+_You **can** combine them_
 
-"B52 đã chứng minh rằng, ngay cả trong thời đại công nghệ cao, một chiếc máy bay ném bom có thể tồn tại và phục vụ lâu dài."
+## Lists
 
-Tables
-Đặc điểm kỹ thuật	Giá trị
-Trọng lượng cất cánh	220.000 kg
-Tốc độ tối đa	1.000 km/h
-Tầm bay	16.000 km
-Sải cánh	56,4 m
+### Unordered
+
+* Item 1
+* Item 2
+* Item 2a
+* Item 2b
+    * Item 3a
+    * Item 3b
+
+### Ordered
+
+1. Item 1
+2. Item 2
+3. Item 3
+    1. Item 3a
+    2. Item 3b
+
+## Images
+
+![This is an alt text.]<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/1200px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg" id="img" style="width: 878px; height: 598px;"> "This is a sample image.")
+
+## Links
+
+You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+
+## Blockquotes
+
+> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
+>
+>> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+
+## Tables
+
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
+
+## Blocks of code
+
+```
+let message = 'Hello world';
+alert(message);
+```
+
+## Inline code
+
+This web site is using `markedjs/marked`.
